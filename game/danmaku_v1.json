@@ -170,7 +170,7 @@
     },
     {
       "id": "ambient_opening_core_03",
-      "text": "晚上好，哔哩布哩",
+      "text": "晚上好",
       "faction": "core",
       "kind": "ambient",
       "scenes": [
@@ -9089,7 +9089,7 @@
     },
     {
       "id": "v02_opening_core_007",
-      "text": "哔哩布哩晚上好呀",
+      "text": "晚上好呀",
       "faction": "core",
       "kind": "ambient",
       "scenes": [
